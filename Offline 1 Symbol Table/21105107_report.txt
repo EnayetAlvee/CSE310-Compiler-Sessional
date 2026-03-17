@@ -1,0 +1,5 @@
+Hash FUNCTION       collision           
+
+SDBM                    1                          
+DJB3                    2
+FNV1a                   4
